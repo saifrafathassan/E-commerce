@@ -19,7 +19,7 @@ simple shopping experience that puts the focus on the products.</p>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src=''/>
+<img src='https://github.com/saifrafathassan/E-commerce/blob/main/src/img/store.png?raw=true'/>
 </div>
 
 
