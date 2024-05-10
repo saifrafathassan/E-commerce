@@ -16,13 +16,15 @@ footer {
     justify-content: center;
 }
 
-.footer-links a {
+.footer-links li {
     color: white;
     text-decoration: none;
+    list-style: none;
     font-size: 1.8rem;
+    cursor: pointer;
 }
 
-.footer-links a:hover {
+.footer-links li:hover {
     text-decoration: underline;
 }
 

@@ -5,12 +5,12 @@ function Footer() {
     <>
       <footer>
         <div className="footer-links">
-          <a href="#">About</a>
-          <a href="#">Store locator</a>
-          <a href="#">FAQs</a>
-          <a href="#">News</a>
-          <a href="#">Careers</a>
-          <a href="#">Contact Us</a>
+          <li>About</li>
+          <li>Store locator</li>
+          <li>FAQs</li>
+          <li>News</li>
+          <li>Careers</li>
+          <li>Contact Us</li>
         </div>
         <p className="love">
           Design &nbsp; by{" "}
