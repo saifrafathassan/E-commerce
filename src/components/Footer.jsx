@@ -13,14 +13,14 @@ function Footer() {
           <li>Contact Us</li>
         </div>
         <p className="love">
-          Design &nbsp; by{" "}
+          Created &nbsp; With love by {" "}
           <a
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
-            href="https://github.com/Abderraouf-Rahmani"
+            href="https://github.com/saifrafathassan"
           >
-            &nbsp; Abderraouf
+            &nbsp; Saif Rafat
           </a>
         </p>
       </footer>
